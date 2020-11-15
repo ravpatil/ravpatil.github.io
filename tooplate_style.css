@@ -41,7 +41,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .h50 { height: 50px }
 .h60 { height: 60px }
 
-a.more { color: #868684; background: url(images/tooplate_more.png) scroll 0 6px no-repeat; padding-left: 12px  }
+a.more { color: #868684; background: url(NewBackground.jpg) scroll 0 6px no-repeat; padding-left: 12px  }
 a.more:hover { color: #000 }
 
 .float_l { float: left }
